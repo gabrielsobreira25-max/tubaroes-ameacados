@@ -1,0 +1,501 @@
+﻿ID,Q1_faixa_etaria,Q2_genero,Q3_escolaridade,Q4_consumo_pescado,Q5_ja_consumiu_cacao,Q6_frequencia_cacao,Q7_sabe_cacao_pode_ser_tubarao,Q8_conhece_especies_ameacadas,Q9_conhece_impactos_pesca_excessiva,Q10_sabe_varias_especies_nome_cacao,Q11_verifica_especie_procedencia,Q12_acredita_risco_extincao,Q13_deixaria_cacao_ameacado,Q14_avaliacao_fiscalizacao,Q15_importancia_nome_especie,Q16_apoia_campanhas,Q17_pagaria_sustentavel,indice_preocupacao_conservacao
+SIM001,18–24,Prefiro não informar,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM002,25–34,Mulher,Pós-graduação,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM003,18–24,Não binário,Fundamental,Sim,Não,Nunca,Sim,Sim,Não,Não,Sempre/às vezes,Sim,Não/depende,Suficiente,Não,Sim,Talvez,Alta
+SIM004,25–34,Mulher,Pós-graduação,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM005,45–54,Mulher,Superior,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM006,35–44,Mulher,Superior,Não,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM007,35–44,Mulher,Fundamental,Não,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM008,18–24,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM009,55+,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM010,18–24,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM011,55+,Homem,Superior,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM012,35–44,Homem,Superior,Não,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM013,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM014,55+,Homem,Fundamental,Sim,Sim,Semanal,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM015,45–54,Mulher,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM016,35–44,Homem,Médio,Sim,Sim,Mensal,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM017,55+,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM018,18–24,Mulher,Fundamental,Sim,Não,Nunca,Não,Não,Sim,Não,Sempre/às vezes,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM019,55+,Prefiro não informar,Superior,Sim,Sim,Semanal,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM020,18–24,Homem,Superior,Não,Não,Nunca,Sim,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM021,18–24,Mulher,Fundamental,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Sim,Alta
+SIM022,25–34,Mulher,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM023,45–54,Mulher,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM024,55+,Mulher,Fundamental,Sim,Sim,Semanal,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM025,55+,Homem,Superior,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Não,Alta
+SIM026,18–24,Mulher,Superior,Sim,Sim,Raramente,Sim,Não,Não,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM027,55+,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM028,25–34,Homem,Superior,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Não,Sim,Talvez,Alta
+SIM029,25–34,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Suficiente,Não,Sim,Sim,Alta
+SIM030,25–34,Mulher,Pós-graduação,Não,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM031,35–44,Mulher,Fundamental,Sim,Não,Nunca,Não,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM032,18–24,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM033,18–24,Homem,Médio,Sim,Não,Nunca,Sim,Sim,Não,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM034,55+,Homem,Superior,Sim,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM035,45–54,Mulher,Médio,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM036,45–54,Homem,Médio,Não,Não,Nunca,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM037,18–24,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM038,25–34,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM039,55+,Homem,Médio,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Talvez,Alta
+SIM040,55+,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM041,55+,Homem,Médio,Sim,Sim,Semanal,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM042,35–44,Mulher,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM043,45–54,Mulher,Médio,Sim,Sim,Raramente,Sim,Não,Não,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM044,35–44,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM045,55+,Homem,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Não,Sim,Sim,Alta
+SIM046,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM047,25–34,Homem,Superior,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM048,18–24,Homem,Superior,Sim,Sim,Mensal,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM049,45–54,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM050,25–34,Homem,Fundamental,Sim,Sim,Raramente,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM051,25–34,Homem,Superior,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM052,25–34,Mulher,Pós-graduação,Sim,Sim,Semanal,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM053,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM054,25–34,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM055,25–34,Mulher,Médio,Sim,Sim,Mensal,Não,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM056,18–24,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM057,55+,Mulher,Pós-graduação,Sim,Sim,Mensal,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM058,45–54,Homem,Médio,Sim,Sim,Mensal,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM059,18–24,Mulher,Médio,Sim,Sim,Raramente,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM060,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM061,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM062,35–44,Mulher,Superior,Sim,Sim,Mensal,Não,Não,Não,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM063,25–34,Prefiro não informar,Pós-graduação,Sim,Sim,Mensal,Não,Sim,Não,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM064,35–44,Homem,Pós-graduação,Sim,Sim,Mensal,Não,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM065,45–54,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM066,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM067,25–34,Homem,Superior,Não,Não,Nunca,Não,Não,Não,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM068,45–54,Mulher,Fundamental,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM069,25–34,Mulher,Médio,Não,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM070,55+,Mulher,Superior,Sim,Sim,Mensal,Não,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM071,25–34,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM072,25–34,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Não,Não,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM073,55+,Mulher,Médio,Não,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM074,55+,Homem,Médio,Não,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM075,55+,Mulher,Superior,Sim,Sim,Semanal,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM076,25–34,Mulher,Fundamental,Não,Não,Nunca,Sim,Não,Não,Não,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM077,45–54,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM078,45–54,Homem,Médio,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM079,45–54,Prefiro não informar,Superior,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM080,45–54,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM081,18–24,Mulher,Fundamental,Sim,Sim,Raramente,Não,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM082,18–24,Mulher,Superior,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM083,55+,Mulher,Médio,Sim,Sim,Raramente,Não,Sim,Não,Não,Sempre/às vezes,Sim,Não/depende,Não sabe,Sim,Sim,Não,Alta
+SIM084,35–44,Homem,Pós-graduação,Sim,Sim,Mensal,Sim,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM085,18–24,Mulher,Médio,Não,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM086,35–44,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM087,25–34,Mulher,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM088,35–44,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM089,35–44,Homem,Pós-graduação,Não,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Não,Sim,Talvez,Alta
+SIM090,45–54,Mulher,Médio,Não,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM091,55+,Mulher,Superior,Sim,Sim,Semanal,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM092,45–54,Não binário,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM093,18–24,Homem,Superior,Sim,Sim,Semanal,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Não,Sim,Talvez,Alta
+SIM094,45–54,Homem,Pós-graduação,Sim,Sim,Mensal,Sim,Não,Não,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Talvez,Alta
+SIM095,18–24,Mulher,Superior,Sim,Sim,Semanal,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM096,25–34,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM097,25–34,Homem,Superior,Não,Não,Nunca,Sim,Sim,Não,Sim,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM098,45–54,Mulher,Médio,Não,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM099,35–44,Homem,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM100,45–54,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM101,25–34,Mulher,Fundamental,Sim,Sim,Mensal,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM102,55+,Mulher,Superior,Não,Sim,Mensal,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM103,55+,Homem,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM104,35–44,Homem,Superior,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM105,18–24,Mulher,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM106,35–44,Homem,Pós-graduação,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM107,18–24,Homem,Pós-graduação,Sim,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM108,35–44,Homem,Superior,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM109,55+,Homem,Médio,Não,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Não,Não,Alta
+SIM110,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Não/depende,Suficiente,Sim,Sim,Talvez,Alta
+SIM111,55+,Mulher,Fundamental,Não,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM112,45–54,Homem,Superior,Sim,Sim,Raramente,Não,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM113,18–24,Homem,Pós-graduação,Sim,Sim,Raramente,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM114,45–54,Mulher,Pós-graduação,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM115,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM116,45–54,Homem,Fundamental,Sim,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM117,18–24,Mulher,Pós-graduação,Não,Não,Nunca,Sim,Sim,Não,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM118,25–34,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM119,35–44,Homem,Superior,Não,Não,Nunca,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM120,55+,Mulher,Fundamental,Sim,Sim,Raramente,Não,Sim,Não,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM121,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM122,25–34,Homem,Superior,Sim,Sim,Semanal,Não,Sim,Não,Não,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM123,25–34,Homem,Médio,Sim,Sim,Semanal,Sim,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM124,45–54,Mulher,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Não,Sim,Alta
+SIM125,35–44,Mulher,Médio,Não,Não,Nunca,Sim,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM126,35–44,Homem,Fundamental,Não,Não,Nunca,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM127,25–34,Mulher,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM128,25–34,Homem,Médio,Sim,Sim,Semanal,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM129,35–44,Homem,Fundamental,Sim,Sim,Raramente,Não,Sim,Não,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM130,25–34,Homem,Superior,Não,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Suficiente,Sim,Sim,Talvez,Alta
+SIM131,25–34,Homem,Médio,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM132,25–34,Homem,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM133,35–44,Homem,Médio,Não,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM134,25–34,Prefiro não informar,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM135,18–24,Homem,Médio,Sim,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM136,25–34,Não binário,Pós-graduação,Sim,Sim,Mensal,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM137,25–34,Homem,Superior,Não,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM138,18–24,Homem,Superior,Sim,Sim,Semanal,Sim,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM139,45–54,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM140,45–54,Prefiro não informar,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM141,35–44,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Sim,Baixa/moderada
+SIM142,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM143,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Sempre/às vezes,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM144,55+,Homem,Médio,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM145,25–34,Homem,Superior,Não,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM146,35–44,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM147,35–44,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM148,18–24,Homem,Superior,Sim,Sim,Mensal,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM149,55+,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM150,25–34,Mulher,Superior,Não,Não,Nunca,Sim,Sim,Não,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM151,55+,Homem,Fundamental,Não,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM152,18–24,Homem,Pós-graduação,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM153,55+,Homem,Médio,Não,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM154,18–24,Mulher,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM155,35–44,Homem,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM156,55+,Mulher,Pós-graduação,Não,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM157,25–34,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM158,18–24,Mulher,Médio,Sim,Sim,Mensal,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM159,45–54,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM160,35–44,Homem,Médio,Não,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM161,45–54,Homem,Fundamental,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM162,45–54,Mulher,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM163,45–54,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM164,55+,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM165,45–54,Mulher,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM166,55+,Homem,Médio,Sim,Sim,Mensal,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Não,Alta
+SIM167,18–24,Mulher,Superior,Sim,Sim,Mensal,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM168,45–54,Prefiro não informar,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM169,55+,Mulher,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Talvez,Alta
+SIM170,55+,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM171,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Não,Baixa/moderada
+SIM172,25–34,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM173,45–54,Não binário,Fundamental,Sim,Não,Nunca,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM174,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM175,35–44,Mulher,Fundamental,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Baixa/moderada
+SIM176,35–44,Mulher,Fundamental,Sim,Sim,Raramente,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Talvez,Alta
+SIM177,45–54,Mulher,Superior,Sim,Sim,Mensal,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM178,35–44,Mulher,Superior,Sim,Sim,Semanal,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM179,25–34,Mulher,Pós-graduação,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM180,35–44,Homem,Pós-graduação,Sim,Sim,Raramente,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM181,45–54,Homem,Médio,Sim,Sim,Raramente,Não,Sim,Não,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Não,Sim,Sim,Alta
+SIM182,25–34,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM183,35–44,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM184,55+,Mulher,Pós-graduação,Sim,Sim,Raramente,Não,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM185,55+,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Não,Não,Alta
+SIM186,25–34,Homem,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM187,18–24,Mulher,Médio,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM188,18–24,Mulher,Pós-graduação,Sim,Sim,Mensal,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM189,25–34,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM190,35–44,Homem,Médio,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Alta
+SIM191,45–54,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM192,25–34,Mulher,Médio,Sim,Sim,Mensal,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM193,55+,Mulher,Médio,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM194,55+,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM195,45–54,Homem,Médio,Não,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM196,25–34,Homem,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM197,55+,Homem,Superior,Sim,Sim,Raramente,Não,Não,Não,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM198,25–34,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM199,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM200,25–34,Homem,Superior,Sim,Sim,Raramente,Não,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM201,25–34,Homem,Superior,Sim,Sim,Raramente,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM202,18–24,Homem,Médio,Sim,Sim,Mensal,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Não,Sim,Sim,Baixa/moderada
+SIM203,18–24,Mulher,Pós-graduação,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM204,55+,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM205,45–54,Homem,Superior,Não,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM206,25–34,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Não,Alta
+SIM207,35–44,Mulher,Fundamental,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Não,Não,Alta
+SIM208,35–44,Homem,Médio,Não,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Não,Alta
+SIM209,45–54,Homem,Superior,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Não,Sim,Alta
+SIM210,45–54,Mulher,Superior,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM211,18–24,Homem,Médio,Não,Sim,Mensal,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM212,35–44,Homem,Fundamental,Sim,Sim,Raramente,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM213,45–54,Mulher,Médio,Não,Não,Nunca,Sim,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM214,55+,Homem,Médio,Não,Sim,Semanal,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM215,35–44,Homem,Pós-graduação,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM216,45–54,Homem,Superior,Sim,Sim,Semanal,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM217,18–24,Mulher,Fundamental,Não,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM218,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM219,35–44,Mulher,Superior,Não,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Talvez,Alta
+SIM220,45–54,Homem,Superior,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM221,45–54,Mulher,Pós-graduação,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM222,35–44,Mulher,Pós-graduação,Sim,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM223,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM224,35–44,Homem,Superior,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Não,Talvez,Alta
+SIM225,18–24,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM226,18–24,Homem,Médio,Sim,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM227,18–24,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM228,45–54,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM229,55+,Mulher,Fundamental,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Não,Talvez,Baixa/moderada
+SIM230,18–24,Mulher,Pós-graduação,Sim,Sim,Semanal,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM231,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM232,18–24,Homem,Médio,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM233,25–34,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Não,Sim,Alta
+SIM234,55+,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Não,Não,Alta
+SIM235,18–24,Homem,Médio,Sim,Sim,Semanal,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM236,35–44,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM237,18–24,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM238,45–54,Homem,Fundamental,Não,Não,Nunca,Sim,Não,Não,Não,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM239,35–44,Homem,Médio,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Não,Sim,Não,Baixa/moderada
+SIM240,55+,Homem,Superior,Não,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM241,18–24,Homem,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Não,Sim,Alta
+SIM242,25–34,Homem,Fundamental,Sim,Sim,Semanal,Não,Não,Sim,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM243,25–34,Mulher,Médio,Não,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM244,25–34,Homem,Médio,Sim,Sim,Raramente,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Não,Não,Sim,Baixa/moderada
+SIM245,35–44,Mulher,Superior,Sim,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Talvez,Baixa/moderada
+SIM246,45–54,Homem,Médio,Sim,Sim,Semanal,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Não/depende,Suficiente,Não,Sim,Sim,Alta
+SIM247,55+,Homem,Médio,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM248,55+,Homem,Superior,Sim,Sim,Semanal,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM249,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM250,25–34,Mulher,Superior,Sim,Sim,Mensal,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Suficiente,Não,Sim,Sim,Alta
+SIM251,55+,Homem,Médio,Sim,Sim,Raramente,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM252,45–54,Mulher,Médio,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM253,45–54,Mulher,Superior,Não,Não,Nunca,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Não,Talvez,Baixa/moderada
+SIM254,18–24,Homem,Superior,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM255,55+,Homem,Fundamental,Sim,Sim,Raramente,Não,Não,Sim,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM256,25–34,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM257,45–54,Homem,Fundamental,Sim,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM258,18–24,Homem,Fundamental,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM259,45–54,Mulher,Médio,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM260,18–24,Mulher,Superior,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM261,18–24,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM262,25–34,Homem,Superior,Não,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM263,35–44,Homem,Pós-graduação,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Suficiente,Sim,Sim,Sim,Alta
+SIM264,55+,Mulher,Médio,Sim,Sim,Mensal,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Sim,Alta
+SIM265,55+,Prefiro não informar,Médio,Sim,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM266,18–24,Mulher,Superior,Não,Não,Nunca,Não,Sim,Não,Não,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM267,25–34,Homem,Médio,Sim,Sim,Mensal,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM268,35–44,Homem,Superior,Sim,Sim,Semanal,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM269,18–24,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Não,Não,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM270,18–24,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM271,18–24,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM272,25–34,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Não,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM273,45–54,Prefiro não informar,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM274,18–24,Homem,Superior,Sim,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM275,25–34,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM276,18–24,Homem,Fundamental,Não,Não,Nunca,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM277,25–34,Homem,Superior,Não,Não,Nunca,Não,Sim,Não,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM278,55+,Mulher,Superior,Sim,Sim,Mensal,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM279,55+,Mulher,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM280,25–34,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM281,45–54,Homem,Superior,Não,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM282,35–44,Mulher,Pós-graduação,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM283,18–24,Mulher,Fundamental,Não,Não,Nunca,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM284,25–34,Mulher,Superior,Não,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM285,25–34,Homem,Pós-graduação,Sim,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Suficiente,Sim,Sim,Não,Alta
+SIM286,45–54,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Não,Baixa/moderada
+SIM287,35–44,Mulher,Médio,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Não,Não,Alta
+SIM288,25–34,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM289,25–34,Homem,Médio,Sim,Sim,Mensal,Não,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM290,35–44,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM291,18–24,Homem,Médio,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM292,55+,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM293,25–34,Mulher,Pós-graduação,Não,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Não,Sim,Alta
+SIM294,18–24,Prefiro não informar,Fundamental,Sim,Não,Nunca,Não,Sim,Não,Não,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM295,55+,Mulher,Fundamental,Não,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM296,25–34,Mulher,Superior,Sim,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM297,35–44,Mulher,Superior,Não,Sim,Mensal,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM298,55+,Homem,Superior,Sim,Não,Nunca,Sim,Sim,Não,Não,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM299,45–54,Mulher,Fundamental,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM300,55+,Homem,Fundamental,Não,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM301,35–44,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM302,18–24,Prefiro não informar,Fundamental,Sim,Sim,Mensal,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM303,55+,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM304,18–24,Homem,Médio,Sim,Sim,Mensal,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM305,45–54,Homem,Pós-graduação,Sim,Sim,Raramente,Não,Não,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM306,25–34,Homem,Superior,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM307,45–54,Homem,Pós-graduação,Sim,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM308,25–34,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM309,25–34,Homem,Superior,Sim,Sim,Raramente,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM310,25–34,Homem,Superior,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM311,25–34,Homem,Superior,Sim,Sim,Mensal,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM312,35–44,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM313,25–34,Mulher,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM314,45–54,Homem,Médio,Sim,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM315,35–44,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Não,Talvez,Alta
+SIM316,25–34,Homem,Superior,Sim,Sim,Raramente,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM317,18–24,Prefiro não informar,Superior,Sim,Sim,Mensal,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM318,25–34,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM319,45–54,Homem,Médio,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM320,55+,Homem,Fundamental,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM321,55+,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM322,55+,Homem,Superior,Não,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM323,35–44,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM324,18–24,Homem,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Talvez,Alta
+SIM325,25–34,Mulher,Pós-graduação,Sim,Sim,Raramente,Não,Sim,Não,Sim,Sempre/às vezes,Sim,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM326,55+,Mulher,Superior,Sim,Sim,Semanal,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM327,35–44,Homem,Fundamental,Sim,Sim,Mensal,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM328,18–24,Mulher,Médio,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM329,25–34,Mulher,Médio,Não,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM330,35–44,Homem,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Sim,Baixa/moderada
+SIM331,18–24,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM332,35–44,Homem,Médio,Sim,Sim,Semanal,Não,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM333,45–54,Mulher,Médio,Sim,Sim,Mensal,Sim,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Talvez,Alta
+SIM334,35–44,Mulher,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM335,25–34,Mulher,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM336,35–44,Mulher,Superior,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM337,55+,Homem,Superior,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM338,18–24,Homem,Pós-graduação,Sim,Sim,Raramente,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM339,25–34,Mulher,Médio,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM340,35–44,Mulher,Médio,Sim,Sim,Semanal,Sim,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Não,Talvez,Baixa/moderada
+SIM341,18–24,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM342,45–54,Mulher,Superior,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM343,18–24,Mulher,Superior,Sim,Sim,Raramente,Sim,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM344,55+,Não binário,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM345,45–54,Homem,Pós-graduação,Não,Não,Nunca,Sim,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM346,25–34,Mulher,Fundamental,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM347,35–44,Homem,Superior,Sim,Sim,Mensal,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM348,55+,Mulher,Médio,Sim,Sim,Mensal,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM349,55+,Homem,Superior,Sim,Sim,Mensal,Sim,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM350,35–44,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM351,35–44,Homem,Fundamental,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Não,Sim,Alta
+SIM352,35–44,Homem,Médio,Sim,Sim,Mensal,Sim,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM353,25–34,Homem,Médio,Não,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM354,18–24,Mulher,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Não,Não,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM355,55+,Homem,Médio,Não,Não,Nunca,Sim,Não,Não,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM356,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM357,35–44,Homem,Pós-graduação,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM358,35–44,Prefiro não informar,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Sim,Alta
+SIM359,25–34,Homem,Pós-graduação,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Não,Talvez,Alta
+SIM360,35–44,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM361,25–34,Mulher,Pós-graduação,Não,Não,Nunca,Sim,Não,Não,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM362,35–44,Mulher,Superior,Sim,Sim,Semanal,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM363,55+,Homem,Superior,Sim,Sim,Raramente,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Não,Sim,Talvez,Baixa/moderada
+SIM364,55+,Não binário,Superior,Sim,Sim,Mensal,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM365,35–44,Homem,Médio,Sim,Sim,Semanal,Sim,Não,Não,Não,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM366,35–44,Mulher,Médio,Não,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM367,18–24,Homem,Fundamental,Sim,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM368,55+,Homem,Fundamental,Sim,Não,Nunca,Não,Não,Não,Não,Sempre/às vezes,Sim,Não/depende,Não sabe,Não,Sim,Talvez,Baixa/moderada
+SIM369,55+,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM370,35–44,Homem,Superior,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM371,18–24,Homem,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM372,35–44,Homem,Pós-graduação,Não,Não,Nunca,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM373,25–34,Mulher,Fundamental,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM374,55+,Homem,Médio,Sim,Sim,Mensal,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM375,35–44,Mulher,Médio,Não,Não,Nunca,Sim,Sim,Não,Sim,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM376,35–44,Homem,Médio,Não,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Não,Alta
+SIM377,55+,Homem,Superior,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM378,25–34,Mulher,Superior,Não,Sim,Raramente,Sim,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM379,35–44,Mulher,Superior,Sim,Não,Nunca,Sim,Não,Não,Sim,Sempre/às vezes,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM380,35–44,Homem,Superior,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM381,45–54,Homem,Fundamental,Sim,Sim,Raramente,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM382,45–54,Mulher,Médio,Sim,Sim,Raramente,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM383,35–44,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM384,45–54,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Não,Alta
+SIM385,35–44,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM386,18–24,Homem,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM387,45–54,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Não,Sim,Baixa/moderada
+SIM388,25–34,Homem,Médio,Sim,Não,Nunca,Sim,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM389,45–54,Mulher,Superior,Sim,Sim,Raramente,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM390,45–54,Homem,Médio,Não,Sim,Mensal,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM391,45–54,Mulher,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Sempre/às vezes,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM392,18–24,Homem,Pós-graduação,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM393,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM394,18–24,Mulher,Médio,Não,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM395,45–54,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM396,25–34,Mulher,Médio,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM397,35–44,Prefiro não informar,Fundamental,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM398,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM399,18–24,Mulher,Superior,Sim,Não,Nunca,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Não,Sim,Sim,Alta
+SIM400,45–54,Mulher,Superior,Sim,Sim,Mensal,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM401,45–54,Homem,Fundamental,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Não,Sim,Talvez,Alta
+SIM402,25–34,Mulher,Superior,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM403,18–24,Homem,Pós-graduação,Sim,Sim,Mensal,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM404,18–24,Prefiro não informar,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Não,Alta
+SIM405,18–24,Mulher,Médio,Não,Não,Nunca,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM406,25–34,Mulher,Superior,Não,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM407,25–34,Mulher,Médio,Sim,Sim,Raramente,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Não,Sim,Talvez,Alta
+SIM408,18–24,Mulher,Médio,Sim,Sim,Semanal,Não,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Sim,Baixa/moderada
+SIM409,18–24,Mulher,Pós-graduação,Sim,Não,Nunca,Não,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM410,45–54,Homem,Superior,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM411,35–44,Homem,Fundamental,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM412,45–54,Mulher,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM413,25–34,Mulher,Médio,Não,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Suficiente,Sim,Sim,Sim,Alta
+SIM414,45–54,Mulher,Superior,Não,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Baixa/moderada
+SIM415,45–54,Mulher,Superior,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM416,25–34,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM417,55+,Mulher,Superior,Não,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM418,18–24,Homem,Médio,Sim,Sim,Semanal,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Não,Sim,Talvez,Baixa/moderada
+SIM419,45–54,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM420,35–44,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Não/depende,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM421,45–54,Mulher,Médio,Sim,Sim,Mensal,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Não,Baixa/moderada
+SIM422,35–44,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM423,35–44,Homem,Superior,Sim,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM424,55+,Homem,Médio,Sim,Sim,Raramente,Não,Não,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Não,Talvez,Alta
+SIM425,55+,Homem,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM426,35–44,Homem,Médio,Sim,Sim,Raramente,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM427,35–44,Mulher,Superior,Sim,Sim,Mensal,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Não,Alta
+SIM428,45–54,Mulher,Superior,Sim,Sim,Raramente,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM429,25–34,Homem,Fundamental,Sim,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM430,18–24,Não binário,Superior,Sim,Sim,Semanal,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM431,55+,Homem,Superior,Não,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM432,18–24,Mulher,Superior,Sim,Sim,Semanal,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM433,25–34,Mulher,Superior,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM434,45–54,Mulher,Fundamental,Sim,Sim,Semanal,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM435,35–44,Homem,Superior,Sim,Sim,Mensal,Não,Não,Sim,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM436,18–24,Prefiro não informar,Superior,Sim,Sim,Mensal,Não,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Não,Sim,Sim,Alta
+SIM437,55+,Mulher,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM438,18–24,Mulher,Fundamental,Não,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM439,55+,Homem,Superior,Não,Não,Nunca,Sim,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM440,35–44,Homem,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM441,55+,Homem,Pós-graduação,Sim,Não,Nunca,Sim,Sim,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM442,45–54,Prefiro não informar,Pós-graduação,Sim,Sim,Mensal,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM443,35–44,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM444,18–24,Não binário,Médio,Não,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM445,55+,Mulher,Superior,Sim,Sim,Semanal,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Não,Não,Alta
+SIM446,25–34,Homem,Fundamental,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM447,25–34,Homem,Médio,Sim,Sim,Mensal,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Não,Alta
+SIM448,25–34,Mulher,Médio,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM449,18–24,Homem,Pós-graduação,Não,Não,Nunca,Não,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM450,55+,Homem,Médio,Sim,Não,Nunca,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Não,Alta
+SIM451,45–54,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM452,25–34,Homem,Fundamental,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Sim,Não/depende,Insuficiente,Sim,Sim,Talvez,Alta
+SIM453,25–34,Homem,Médio,Sim,Não,Nunca,Não,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM454,35–44,Mulher,Superior,Sim,Não,Nunca,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM455,25–34,Homem,Superior,Não,Não,Nunca,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM456,18–24,Mulher,Médio,Sim,Não,Nunca,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM457,25–34,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Baixa/moderada
+SIM458,25–34,Homem,Médio,Sim,Sim,Semanal,Não,Não,Não,Não,Sempre/às vezes,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Alta
+SIM459,35–44,Homem,Fundamental,Sim,Não,Nunca,Sim,Sim,Sim,Não,Sempre/às vezes,Sim,Não/depende,Suficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM460,35–44,Homem,Médio,Sim,Não,Nunca,Sim,Não,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM461,25–34,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM462,18–24,Homem,Superior,Sim,Sim,Mensal,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Não,Sim,Talvez,Baixa/moderada
+SIM463,55+,Mulher,Médio,Sim,Sim,Mensal,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM464,45–54,Mulher,Superior,Sim,Sim,Mensal,Sim,Não,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM465,35–44,Homem,Pós-graduação,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM466,25–34,Mulher,Pós-graduação,Sim,Sim,Raramente,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM467,25–34,Mulher,Superior,Não,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Não/depende,Não sabe,Sim,Sim,Sim,Alta
+SIM468,18–24,Homem,Superior,Sim,Sim,Mensal,Não,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM469,18–24,Homem,Pós-graduação,Não,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM470,18–24,Homem,Pós-graduação,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM471,35–44,Homem,Fundamental,Sim,Não,Nunca,Não,Sim,Não,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Baixa/moderada
+SIM472,18–24,Homem,Médio,Sim,Não,Nunca,Não,Sim,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Não,Não,Alta
+SIM473,55+,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Não,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM474,18–24,Homem,Médio,Sim,Sim,Mensal,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM475,25–34,Mulher,Pós-graduação,Sim,Não,Nunca,Não,Não,Não,Sim,Sempre/às vezes,Não/não sabe,Sim,Suficiente,Sim,Sim,Não,Baixa/moderada
+SIM476,18–24,Homem,Médio,Sim,Não,Nunca,Não,Não,Sim,Não,Nunca/raramente,Não/não sabe,Sim,Não sabe,Sim,Sim,Sim,Alta
+SIM477,45–54,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Sim,Não,Sempre/às vezes,Não/não sabe,Sim,Insuficiente,Sim,Não,Sim,Baixa/moderada
+SIM478,25–34,Homem,Fundamental,Sim,Não,Nunca,Não,Não,Não,Sim,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Não,Não,Alta
+SIM479,35–44,Mulher,Superior,Não,Não,Nunca,Sim,Sim,Sim,Sim,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Talvez,Alta
+SIM480,18–24,Homem,Fundamental,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM481,35–44,Homem,Médio,Sim,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Suficiente,Sim,Sim,Não,Baixa/moderada
+SIM482,25–34,Mulher,Superior,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Não,Sim,Baixa/moderada
+SIM483,45–54,Mulher,Superior,Não,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Sim,Alta
+SIM484,45–54,Mulher,Superior,Sim,Sim,Semanal,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Não,Sim,Alta
+SIM485,45–54,Homem,Médio,Sim,Sim,Mensal,Sim,Não,Não,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Sim,Baixa/moderada
+SIM486,55+,Mulher,Superior,Sim,Sim,Raramente,Não,Não,Sim,Não,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Não,Alta
+SIM487,45–54,Mulher,Médio,Sim,Sim,Raramente,Sim,Sim,Não,Não,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM488,45–54,Mulher,Superior,Sim,Não,Nunca,Sim,Não,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM489,35–44,Homem,Superior,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM490,55+,Homem,Superior,Sim,Sim,Raramente,Sim,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM491,55+,Homem,Pós-graduação,Sim,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Não/não sabe,Sim,Insuficiente,Sim,Sim,Sim,Alta
+SIM492,35–44,Mulher,Médio,Não,Não,Nunca,Não,Não,Sim,Não,Sempre/às vezes,Sim,Sim,Suficiente,Sim,Sim,Não,Alta
+SIM493,25–34,Homem,Superior,Sim,Sim,Raramente,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
+SIM494,18–24,Homem,Médio,Não,Sim,Raramente,Sim,Não,Não,Sim,Nunca/raramente,Sim,Sim,Não sabe,Sim,Sim,Talvez,Alta
+SIM495,35–44,Homem,Pós-graduação,Não,Não,Nunca,Não,Sim,Sim,Sim,Nunca/raramente,Sim,Sim,Não sabe,Não,Sim,Não,Alta
+SIM496,18–24,Homem,Superior,Não,Não,Nunca,Sim,Não,Sim,Sim,Sempre/às vezes,Sim,Sim,Insuficiente,Não,Não,Talvez,Alta
+SIM497,35–44,Mulher,Médio,Sim,Sim,Raramente,Não,Não,Não,Não,Nunca/raramente,Sim,Não/depende,Não sabe,Sim,Sim,Talvez,Alta
+SIM498,25–34,Mulher,Fundamental,Não,Não,Nunca,Não,Não,Não,Não,Nunca/raramente,Não/não sabe,Não/depende,Insuficiente,Sim,Sim,Sim,Baixa/moderada
+SIM499,45–54,Homem,Médio,Sim,Sim,Raramente,Não,Sim,Sim,Não,Nunca/raramente,Sim,Sim,Suficiente,Sim,Sim,Sim,Baixa/moderada
+SIM500,45–54,Mulher,Superior,Sim,Sim,Raramente,Sim,Não,Sim,Não,Nunca/raramente,Sim,Sim,Insuficiente,Sim,Sim,Talvez,Alta
